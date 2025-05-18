@@ -1,0 +1,12 @@
+[submodule "knapsack-problem-front"]
+	path = knapsack-problem-front
+	url = /root/sistemas/knapsack-problem/knapsack-problem-front/
+[submodule "knapsack-problem-php"]
+	path = knapsack-problem-php
+	url = /root/sistemas/knapsack-problem/knapsack-problem-php
+[submodule "knapsack-problem-golang"]
+	path = knapsack-problem-golang
+	url = /root/sistemas/knapsack-problem/knapsack-problem-golang
+[submodule "knapsack-problem-python"]
+	path = knapsack-problem-python
+	url = /root/sistemas/knapsack-problem/knapsack-problem-python
