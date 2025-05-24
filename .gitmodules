@@ -1,12 +1,18 @@
 [submodule "knapsack-problem-front"]
 	path = knapsack-problem-front
-	url = /root/sistemas/knapsack-problem/knapsack-problem-front/
+	url = https://github.com/thiagorocha14/knapsack-problem-front.git
 [submodule "knapsack-problem-php"]
 	path = knapsack-problem-php
-	url = /root/sistemas/knapsack-problem/knapsack-problem-php
+	url = https://github.com/thiagorocha14/knapsack-problem-php.git
 [submodule "knapsack-problem-golang"]
 	path = knapsack-problem-golang
-	url = /root/sistemas/knapsack-problem/knapsack-problem-golang
+	url = https://github.com/thiagorocha14/knapsack-problem-golang.git
 [submodule "knapsack-problem-python"]
 	path = knapsack-problem-python
-	url = /root/sistemas/knapsack-problem/knapsack-problem-python
+	url = https://github.com/thiagorocha14/knapsack-problem-python.git
+[submodule "knapsack-problem-java"]
+	path = knapsack-problem-java
+	url = https://github.com/thiagorocha14/knapsack-problem-java.git
+[submodule "knapsack-problem-node"]
+	path = knapsack-problem-node
+	url = https://github.com/thiagorocha14/knapsack-problem-node.git
